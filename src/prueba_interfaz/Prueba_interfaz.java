@@ -50,7 +50,7 @@ public class Prueba_interfaz {
         Prueba_interfaz prueba ;
         prueba= new Prueba_interfaz();
         prueba.iniciacomponentes();
-        
+       // prueba_Gero 
         
     }
     
